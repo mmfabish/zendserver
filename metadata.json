@@ -1,0 +1,14 @@
+{
+  "name": "mmfabish-zendserver",
+  "version": "0.1.0",
+  "author": "mmfabish",
+  "summary": "This module installs Zend Server on a RedHat/CentOS system.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/mmfabish/zendserver.git",
+  "project_page": "https://github.com/mmfabish/zendserver",
+  "issues_url": "https://github.com/mmfabish/zendserver/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
